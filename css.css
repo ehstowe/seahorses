@@ -1,8 +1,7 @@
 body{
 background-image: url("lightbluegradient.jpg");
-font-family: Georgia;}
+font-family: Georgia, "Times New Roman", serif;}
 h1{
-  font-family: Courier;
   color: yellow;
   text-align: center;}
 
