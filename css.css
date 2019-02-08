@@ -1,7 +1,14 @@
 body{
 background-image: url("lightbluegradient2.jpg");
 font-family: Georgia, "Times New Roman", serif;}
-
+th, td{
+  padding: 15px;
+  border-bottom: 1px solid #ddd}
+th{
+  background-color: white;
+  color: gray;
+}
+  
 h1{
   color: darkorange;
   text-align: center;}
