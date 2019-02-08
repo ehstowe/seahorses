@@ -1,6 +1,7 @@
 body{
-font-family: Georgia;
+font-family: Impact, Georgia;
 background-color: lightblue;}
 h1{
-color: darkorange;}
+  background-color: darkorange
+  color: white;}
 
