@@ -1,8 +1,9 @@
 body{
-font-family: Impact, Georgia;
+font-family: Georgia;
 background-color: lightblue;}
 h1{
-  text-align: center;
+  font-family: Impact:
   background-color: darkorange;
-  color: white;}
+  color: white;
+  text-align: center;}
 
