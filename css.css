@@ -1,5 +1,5 @@
 body{
-background-image:"bluegradient.png";
+background-image: url("bluegradient.png");
 font-family: Georgia;}
 h1{
   font-family: Courier;
